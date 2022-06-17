@@ -1,0 +1,47 @@
+img{
+    height: 375px;
+    width: 455px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+body{
+    text-align: center;
+}
+.aboutme{
+    padding: 20px;
+    font-size: 25px;
+    background: linear-gradient(#08f4a8 0%,#257cee 100%);
+    height: 563; 
+}
+.bio{
+    padding: 20px;
+    font-size: 25px;
+    background: linear-gradient(#08f4a8 0%,#257cee 100%);
+    height: 563; 
+}
+h1{
+    text-shadow: 2px 2px #f8bbd0;
+    font-size: 20ppx;
+    font-family: 'New Tegomin', serif;
+}
+#name{
+    font-family: 'Lobster', cursive;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;    
+    margin: 8px auto;     
+}
+p{
+    color: black;
+    font-family: 'Roboto Mono', monospace;
+}
+h1{
+    text-shadow: 2px 2px #f8bbd0;
+    font-size: 20px; 
+    font-family: 'Train One', cursive;
+}
+#hobby{
+    font-family: 'Dancing Script', cursive
+}
